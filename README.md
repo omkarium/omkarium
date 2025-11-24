@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=B30000&center=true&vCenter=true&width=600&lines=I+am+a+slave+to+freedom.;Those+who+do+not+fight+have+no+right+to+freedom.;Code+is+the+only+path+I+choose.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=B30000&center=true&vCenter=true&width=600&lines=I+am+a+slave+to+freedom.; Those+who+do+not+fight+have+no+right+to+freedom.;Chaos+is+the+only+truth.;My+existence+is+cosmic+and+it+needs+no+purpose.">
 </p>
-
-### 🦋 **Xyz**
+p
+### 🦋 **Venkatesh Omkaram**
 
 **⚔️ Software Developer | Rust | MuleSoft | AWS | DevOps | Linux**
 
@@ -54,13 +54,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarium&layout=compact&theme=dark&hide_border=true)
 
----
-
-### 🌌 Final Words
-
-**🦋 I am slave to freedom.  
-🌪️ Made for myself.  
-⚔️ My Existence needs no purpose.**
-
----
 
