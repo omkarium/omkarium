@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=B30000&center=true&vCenter=true&width=600&lines=I+am+a+slave+to+freedom.; Those+who+do+not+fight+have+no+right+to+freedom.;Chaos+is+the+only+truth.;My+existence+is+cosmic+and+it+needs+no+purpose.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=B30000&center=true&vCenter=true&width=600&lines=I+am+a+slave+to+freedom.;Those+who+do+not+fight+have+no+right+to+freedom.;Chaos+is+the+only+truth.;My+existence+is+cosmic+and+it+needs+no+purpose.">
 </p>
 p
 ### 🦋 **Venkatesh Omkaram**
